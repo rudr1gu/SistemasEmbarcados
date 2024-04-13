@@ -1,3 +1,5 @@
+#include <iostream>
+
 const int ledVerde = 13;
 const int ledAmarelo = 12;
 const int ledVermelho = 11;
